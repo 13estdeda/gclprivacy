@@ -14,6 +14,3 @@ pip install -r requirements.txt
 
 ```$DATASET_NAME``` is the dataset name (please refer to https://chrsmrrs.github.io/datasets/docs/datasets/), ```$GPU_ID``` is the lanched GPU ID
 
-## Acknowledgements
-
-The backbone implementation is reference to https://github.com/fanyun-sun/InfoGraph/tree/master/unsupervised.
